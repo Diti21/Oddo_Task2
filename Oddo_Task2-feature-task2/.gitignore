@@ -1,0 +1,28 @@
+# === GLOBAL ===
+node_modules/
+.env
+.env.*         # for .env.development, .env.local, etc.
+.DS_Store
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+dist/
+build/
+coverage/
+
+# === FRONTEND ===
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.DS_Store
+frontend/.vite
+
+# === BACKEND ===
+backend/node_modules/
+backend/uploads/
+backend/.env
+backend/.DS_Store
+
+# === VSCODE ===
+.vscode/
