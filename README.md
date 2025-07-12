@@ -1,4 +1,4 @@
-# Oddo_Task2
+# Odoo_Task2
 Problem Statement 2: -
 StackIt – A Minimal Q&A Forum Platform
 Overview
