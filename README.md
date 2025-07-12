@@ -7,5 +7,5 @@ learning and structured knowledge sharing. It’s designed to be simple, user- f
 and focused on the core experience of asking and answering questions within a
 community.
 
-Team Nmae- CodeX
+Team Name- CodeX
 Email - vishwabhanushali@gmail.com
